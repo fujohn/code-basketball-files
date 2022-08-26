@@ -26,7 +26,7 @@ three_pt_made
 
 three_pt_made = three_pt_made + 1
 
-three_pt_made
+print(three_pt_made)
 
 ####################
 # types of variables
